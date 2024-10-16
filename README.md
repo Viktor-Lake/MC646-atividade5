@@ -1,2 +1,4 @@
-# MC646-atividade5
-Atividade 5 da diciplina MC646
+Equipe:
+Luiz Fernando Bueno Rosa RA: 221197
+Victor Prudente Lago RA: 194784
+Lucas Matos de Almeida RA: 182623
